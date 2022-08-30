@@ -93,7 +93,7 @@ out
 .nuxt
 
 # Production files
-dist
+# dist
 
 # Remove test file when release
 dist/test
